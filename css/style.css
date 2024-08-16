@@ -1,0 +1,29 @@
+*{
+    border-radius: 5px;
+}
+
+.optionsbox{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: yellow;
+    height:30px;
+    width: 200px;
+}
+#forms{
+    background-color: pink;
+    border-radius:20px;
+    padding: 10px;
+    display:  none;
+    flex-direction: column;
+    max-width: 200px;
+    justify-content: space-evenly;
+    align-items: center;
+    gap:3px;
+    box-shadow: 5px 5px 10px black;
+}
+input, textarea{
+    border-radius: 10px;
+    text-align: center;
+    max-width: fit-content;
+}
