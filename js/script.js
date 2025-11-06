@@ -10,7 +10,6 @@ function deleteContent(){
 function modifyContent(){
 
 }
-
 function createCard() {
      var title = document.getElementById("title").value;
      var author = document.getElementById("author").value;
