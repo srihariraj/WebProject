@@ -5,7 +5,7 @@ function addContent(){
 }
 function deleteContent(){
      var box = document.getElementById("contents");
-     box.innerText="";
+     box.innerText="test  dataa";
 }
 function modifyContent(){
 
